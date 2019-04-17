@@ -25,7 +25,7 @@ github_username:  ihavegerms
 
 # Build settings
 markdown: kramdown
-theme: personal-jekyll-theme
+remote_theme: le4ker/personal-jekyll-theme
 plugins:
   - jekyll-feed
 

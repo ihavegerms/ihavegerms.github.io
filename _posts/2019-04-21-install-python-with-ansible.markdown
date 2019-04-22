@@ -22,4 +22,4 @@ using the 'raw' module as follows;
 
 ansible -i hosts all --sudo -m raw -a "apt install -y python-minimal python-simplejson"
 
-For more information on the 'raw' module: https://docs.ansible.com/ansible/latest/modules/raw_module.html
+For more information on the 'raw' module: [Ansible - Raw Module ](https://docs.ansible.com/ansible/latest/modules/raw_module.html)

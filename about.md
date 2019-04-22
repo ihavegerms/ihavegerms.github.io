@@ -12,6 +12,6 @@ I joined the military at 17 years old and received a honorable discharge in 2007
 
 I am interested in a wide variety of things, but currently I am working on leveling up my Kubernetes and Python skills. My free time is divided amongst my family and playing with my labs.
 
-You can find me on linkedin if you are curious: (https://www.linkedin.com/in/darren-carpenter-31806118/)[Darren Carpenter - LinkedIn]
+You can find me on linkedin if you are curious: [Darren Carpenter - LinkedIn](https://www.linkedin.com/in/darren-carpenter-31806118/)
 
 

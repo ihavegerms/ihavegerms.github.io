@@ -14,4 +14,4 @@ I am interested in a wide variety of things, but currently I am working on level
 
 You can find me on linkedin if you are curious: [Darren Carpenter - LinkedIn](https://www.linkedin.com/in/darren-carpenter-31806118/)
 
-
+If you would like, you can download my resume. [Darren-carpenter.rtf](https://f1c9fcee336bf9100163-a097ff9e4f7e43e09d957e04a9ede535.ssl.cf1.rackcdn.com/darren_carpenter_resume%20(1).rtf)
